@@ -2,7 +2,8 @@
   "name": "command-example",
   "version": "1.0.0",
   "description": "Example command plugin with prefix, slash, permissions, and dashboard component support.",
-  "author": "ModularDiscordBot Examples",
+  "license": "0BSD",
+  "author": "Pluxora Examples",
   "main": "index.js",
   "modularDiscordBotPlugin": {
     "id": "command-example",

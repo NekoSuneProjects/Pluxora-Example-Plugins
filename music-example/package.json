@@ -2,7 +2,8 @@
   "name": "music-example",
   "version": "1.0.0",
   "description": "Example music plugin using @discordjs/voice and play-dl for YouTube and Spotify lookup.",
-  "author": "ModularDiscordBot Examples",
+  "license": "0BSD",
+  "author": "Pluxora Examples",
   "main": "index.js",
   "dependencies": {
     "@discordjs/voice": "^0.19.2",
